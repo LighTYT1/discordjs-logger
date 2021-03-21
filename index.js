@@ -4,8 +4,7 @@
 //  Learn from this, do not just copy it mofo!
 
 
-const token = ""
-var inviteLink = "";
+const token = "";
 
 module.exports = {
     channelCreate: async (client) => {
